@@ -1,1 +1,1 @@
-This project shows API Automation as per QA standards.
+This project shows API Automation using Rest Assured  as per QA standards.
